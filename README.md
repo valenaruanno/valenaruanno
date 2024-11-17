@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/valenaruanno/TallerProgamacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=TallerProgamacion&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/valenaruanno/TallerProgramacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=TallerProgramacion&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/fabioo66/Mate-2"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=Mate-2&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/fabioo66/Arquitectura-de-computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=Arquitectura-de-computadoras&theme=blue-green&icon_color=F8D866"></a>
 </div>
