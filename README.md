@@ -56,7 +56,7 @@
     <a href="https://github.com/valenaruanno/ISO"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=ISO&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/valenaruanno/OO1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=OO1&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/fabioo66/DBD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=DBD&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/valenaruanno/Ingenieria-de-Software-1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=ING-1&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/valenaruanno/Ingenieria-de-Software-1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Ingenieria-de-Software-1&theme=blue-green&icon_color=F8D866"></a>
 </div>
 
 <!-- Add some space -->
