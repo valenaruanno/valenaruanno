@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/fabioo66/Taller-de-progamacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=Taller-de-progamacion&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/valenaruanno/TallerProgamacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=TallerProgamacion&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/fabioo66/Mate-2"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=Mate-2&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/fabioo66/Arquitectura-de-computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=Arquitectura-de-computadoras&theme=blue-green&icon_color=F8D866"></a>
 </div>
@@ -50,13 +50,13 @@
 <!--h2 align="center">Segundo año</h2-->
 <h2 align="center" style="color: #007bff;">Segundo año👨‍💻</h2>
 <div align="center">
-    <a href="https://github.com/fabioo66/FOD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=FOD&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/valenaruanno/FOD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=FOD&theme=blue-green&icon_color=F8D866"></a>
      <a href="https://github.com/valenaruanno/AYED2"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=AYED2&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/fabioo66/Seminario-de-python-"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=Seminario-de-python-&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/fabioo66/ISO"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=ISO&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/fabioo66/OO1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=OO1&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/valenaruanno/ISO"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=ISO&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/valenaruanno/OO1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=OO1&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/fabioo66/DBD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=DBD&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/fabioo66/ING-1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=ING-1&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/valenaruanno/Ingenieria-de-Software-1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=ING-1&theme=blue-green&icon_color=F8D866"></a>
 </div>
 
 <!-- Add some space -->
