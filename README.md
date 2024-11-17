@@ -51,7 +51,7 @@
 <h2 align="center" style="color: #007bff;">Segundo año👨‍💻</h2>
 <div align="center">
     <a href="https://github.com/fabioo66/FOD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=FOD&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/fabioo66/AYED"><img width="250" src="https://github.com/valenaruanno/AyED2"></a>
+     <a href="https://github.com/valenaruanno/AYED2"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=AYED2&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/fabioo66/Seminario-de-python-"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=Seminario-de-python-&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/fabioo66/ISO"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=ISO&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/fabioo66/OO1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=OO1&theme=blue-green&icon_color=F8D866"></a>
