@@ -65,9 +65,9 @@
 ### GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/fabioo66">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabioo66&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabioo66&layout=compact&langs_count=8&theme=blue-green"/>
+  <a href="https://github.com/valenaruanno">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=valenaruanno&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=valenaruanno&layout=compact&langs_count=8&theme=blue-green"/>
   </a>
 </p>
 
