@@ -5,7 +5,7 @@
 ## Soy Valentin Aruanno, estudiante de "Licenciatura en sistemas"
 
 - 👨‍💻 Actualmente estoy cursando segundo año en la UNLP.
-- 💪🏼 Objetivos futuros: Aprender mas en tecnología.
+- 💪🏼 Objetivos futuros: Aprender más en tecnología.
 
 ---
 
