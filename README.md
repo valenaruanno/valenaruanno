@@ -31,31 +31,57 @@
 </div>
 
 <!--h2 align="center">Primer año</h2-->
-<h2 align="center" style="color: #D3D3D3;">Primer año👨‍💻</h2>
+<h2 align="center" style="color: #F8D866;">Primer año👨‍💻</h2>
 <div align="center">
-    <a href="https://github.com/valenaruanno/CADP"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=CADP&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/valenaruanno/Mate1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Mate1&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/valenaruanno/OrganizacionDeComputadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=OrganizacionDeComputadoras&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/valenaruanno/CADP" style="color: #D3D3D3;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=CADP&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/valenaruanno/Mate1" style="color: #D3D3D3;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Mate1&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/valenaruanno/OrganizacionDeComputadoras" style="color: #D3D3D3;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=OrganizacionDeComputadoras&theme=blue-green&icon_color=F8D866">
+    </a>
 </div>
 
 <div align="center">
-    <a href="https://github.com/valenaruanno/TallerProgramacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=TallerProgramacion&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/valenaruanno/Mate2"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Mate2&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/valenaruanno/ArquitecturaDeComputadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=ArquitecturaDeComputadoras&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/valenaruanno/TallerProgramacion" style="color: #D3D3D3;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=TallerProgramacion&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/valenaruanno/Mate2" style="color: #D3D3D3;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Mate2&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/valenaruanno/ArquitecturaDeComputadoras" style="color: #D3D3D3;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=ArquitecturaDeComputadoras&theme=blue-green&icon_color=F8D866">
+    </a>
 </div>
 
 <br>
 
 <!--h2 align="center">Segundo año</h2-->
-<h2 align="center" style="color: #D3D3D3;">Segundo año👨‍💻</h2>
+<h2 align="center" style="color: #F8D866;">Segundo año👨‍💻</h2>
 <div align="center">
-    <a href="https://github.com/valenaruanno/FOD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=FOD&theme=blue-green&icon_color=F8D866"></a>
-     <a href="https://github.com/valenaruanno/AYED2"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=AYED2&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/valenaruanno/SeminarioDeLenguajes"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=SeminarioDeLenguajes&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/valenaruanno/ISO"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=ISO&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/valenaruanno/OO1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=OO1&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/valenaruanno/DBD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=DBD&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/valenaruanno/Ingenieria-de-Software-1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Ingenieria-de-Software-1&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/valenaruanno/FOD" style="color: #D3D3D3;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=FOD&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/valenaruanno/AYED2" style="color: #D3D3D3;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=AYED2&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/valenaruanno/SeminarioDeLenguajes" style="color: #D3D3D3;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=SeminarioDeLenguajes&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/valenaruanno/ISO" style="color: #D3D3D3;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=ISO&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/valenaruanno/OO1" style="color: #D3D3D3;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=OO1&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/valenaruanno/DBD" style="color: #D3D3D3;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=DBD&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/valenaruanno/Ingenieria-de-Software-1" style="color: #D3D3D3;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Ingenieria-de-Software-1&theme=blue-green&icon_color=F8D866">
+    </a>
 </div>
 
 <!-- Add some space -->
