@@ -9,7 +9,7 @@
 
 ---
 
-##### Languages I use
+##### Lenguajes que uso
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
@@ -17,7 +17,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 
-##### Some of the technologies I have worked with
+##### Tecnologias con las que he trabajado
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
@@ -27,6 +27,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 <br/>
 
+<!--h2 align="center">Primer año</h2-->
+<h2 align="center" style="color: #007bff;">Primer año👨‍💻</h2>
 <div align="center">
     <a href="https://github.com/valenaruanno/CADP" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
         <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=CADP&theme=blue-green&icon_color=F8D866">
@@ -53,6 +55,8 @@
 
 <br>
 
+<!--h2 align="center">Segundo año</h2-->
+<h2 align="center" style="color: #007bff;">Segundo año👨‍💻</h2>
 <div align="center">
     <a href="https://github.com/valenaruanno/FOD" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
         <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=FOD&theme=blue-green&icon_color=F8D866">
