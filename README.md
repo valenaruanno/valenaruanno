@@ -34,7 +34,7 @@
 <h2 align="center" style="color: #007bff;">Primer año👨‍💻</h2>
 <div align="center">
     <a href="https://github.com/fabioo66/CADP"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=CADP&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/fabioo66/Mate-1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=Mate-1&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/valenaruanno/Mate1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Mate1&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/fabioo66/Organizacion-de-computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=Organizacion-de-computadoras&theme=blue-green&icon_color=F8D866"></a>
 </div>
 
