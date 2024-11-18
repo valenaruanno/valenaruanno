@@ -33,7 +33,7 @@
 <!--h2 align="center">Primer año</h2-->
 <h2 align="center" style="color: #007bff;">Primer año👨‍💻</h2>
 <div align="center">
-    <a href="https://github.com/valenaruanno/CADP"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=CADP&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/valenaruanno/CADP"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=CADP&theme=blue-green&icon_color=D3D3D3"></a>
     <a href="https://github.com/valenaruanno/Mate1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Mate1&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/valenaruanno/OrganizacionDeComputadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=OrganizacionDeComputadoras&theme=blue-green&icon_color=F8D866"></a>
 </div>
