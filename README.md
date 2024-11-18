@@ -41,7 +41,7 @@
 <div align="center">
     <a href="https://github.com/valenaruanno/TallerProgramacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=TallerProgramacion&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/valenaruanno/Mate2"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Mate2&theme=blue-green&icon_color=F8D866"></a>
-    <a href="https://github.com/valenaruanno/ArquitecturaDeComputadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=ArquitecturaDeComputadoras&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/valenaruanno/ArquitecturaDeComputadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=ArquitecturaDeComputadoras&theme=blue-green&icon_color=F8D866"></a>
 </div>
 
 <br>
