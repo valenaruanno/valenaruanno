@@ -81,6 +81,24 @@
     </a>
 </div>
 
+
+<!--h2 align="center">Tercer año</h2-->
+<h2 align="center" style="color: #007bff;">Segundo año👨‍💻</h2>
+<div align="center">
+    <a href="https://github.com/valenaruanno/OO2" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=OO2&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/valenaruanno/Mate3" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Mate3&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/valenaruanno/CPLP" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=CPLP&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/valenaruanno/Ing2" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Ing2&theme=blue-green&icon_color=F8D866">
+</div>
+
+
 <!-- Add some space -->
 <div style="margin-top: 50px;"></div>
 
