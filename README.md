@@ -94,7 +94,7 @@
     <a href="https://github.com/valenaruanno/CPLP" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
         <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=CPLP&theme=blue-green&icon_color=F8D866">
     </a>
-    <a href="https://github.com/valenaruanno/Ing2" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
+    <a href="https://github.com/valenaruanno/Inge2" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
         <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Ing2&theme=blue-green&icon_color=F8D866">
 </div>
 
