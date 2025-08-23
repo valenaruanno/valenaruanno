@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## Soy Valentin Aruanno, estudiante de "Licenciatura en sistemas"
+## Soy Valentin Aruanno, estudiante de "Licenciatura en Sistemas" y "Analista Programador Universitario"
 
 - 👨‍💻 Actualmente estoy cursando tercer año en la UNLP.
 - 💪🏼 Objetivos futuros: Aprender más en tecnología.
