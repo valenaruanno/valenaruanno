@@ -113,6 +113,22 @@
     </a>
 </div>
 
+<h2 align="center" style="color: #007bff;">Proyectos👨‍💻</h2>
+<div align="center">
+    <a href="https://github.com/valenaruanno/englishWithFriends" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=englishWithFriends&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/fabioo66/donde-estas-volve-a-casa" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=donde-estas-volve-a-casa&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/Diego-JPH/AlquilerDeAutosMaria" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Diego-JPH&repo=AlquilerDeAutosMaria&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://gitlab.catedras.linti.unlp.edu.ar/proyecto-2025/proyectos/grupo29/code" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valentinaruanno2004&repo=code&theme=blue-green&icon_color=F8D866">
+    </a>
+</div>
+
 
 <!-- Add some space -->
 <div style="margin-top: 50px;"></div>
