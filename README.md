@@ -124,8 +124,8 @@
     <a href="https://github.com/Diego-JPH/AlquilerDeAutosMaria" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
         <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Diego-JPH&repo=AlquilerDeAutosMaria&theme=blue-green&icon_color=F8D866">
     </a>
-    <a href="https://gitlab.catedras.linti.unlp.edu.ar/proyecto-2025/proyectos/grupo29/code" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
-        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valentinaruanno2004&repo=code&theme=blue-green&icon_color=F8D866">
+    <a href="https://github.com/valenaruanno/Sitios_historicos" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Sitios_historicos&theme=blue-green&icon_color=F8D866">
     </a>
 </div>
 
