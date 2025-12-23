@@ -118,8 +118,8 @@
     <a href="https://github.com/valenaruanno/englishWithFriends" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
         <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=englishWithFriends&theme=blue-green&icon_color=F8D866">
     </a>
-    <a href="https://github.com/fabioo66/donde-estas-volve-a-casa" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
-        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=donde-estas-volve-a-casa&theme=blue-green&icon_color=F8D866">
+    <a href="https://github.com/valenaruanno/donde-estas-volve-a-casa" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=donde-estas-volve-a-casa&theme=blue-green&icon_color=F8D866">
     </a>
     <a href="https://github.com/Diego-JPH/AlquilerDeAutosMaria" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
         <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Diego-JPH&repo=AlquilerDeAutosMaria&theme=blue-green&icon_color=F8D866">
