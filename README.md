@@ -4,7 +4,7 @@
 
 ## Soy Valentin Aruanno, estudiante de "Licenciatura en Sistemas" y "Analista Programador Universitario"
 
-- 👨‍💻 Actualmente estoy cursando tercer año en la UNLP.
+- 👨‍💻 Actualmente estoy cursando cuarto año en la UNLP.
 - 💪🏼 Objetivos futuros: Aprender más en tecnología.
 
 ---
