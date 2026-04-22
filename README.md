@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## Soy Valentin Aruanno, estudiante de "Licenciatura en Sistemas" y "Analista Programador Universitario"
+## Soy Valentin Aruanno, soy "Analista Programador Universitario" y estudiante de "Licenciatura en Sistemas".
 
-- 👨‍💻 Actualmente estoy cursando cuarto año en la UNLP.
+- 👨‍💻 Actualmente estoy cursando cuarto año en la UNLP de la carrera Licenciatura en Sistemas.
 - 💪🏼 Objetivos futuros: Aprender más en tecnología.
 
 ---
@@ -110,6 +110,20 @@
     </a>
     <a href="https://github.com/valenaruanno/Proyecto-de-Software" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
         <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Proyecto-de-Software&theme=blue-green&icon_color=F8D866">
+    </a>
+</div>
+
+<!--h2 align="center">Cuarto año</h2-->
+<h2 align="center" style="color: #007bff;">Cuarto año👨‍💻</h2>
+<div align="center">
+    <a href="https://github.com/valenaruanno/Fundamentos-de-Teoria-de-la-Computacion" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Fundamentos-de-Teoria-de-la-Computacion&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/valenaruanno/Base-de-datos-2" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Base-de-datos-2&theme=blue-green&icon_color=F8D866">
+    </a>
+    <a href="https://github.com/valenaruanno/Inge3" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Inge3&theme=blue-green&icon_color=F8D866">
     </a>
 </div>
 
