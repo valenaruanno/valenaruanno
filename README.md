@@ -15,7 +15,7 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![Python](https://img.shields.io/badge/--000000?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 ##### Tecnologias con las que he trabajado
 
@@ -25,10 +25,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Spring](https://img.shields.io/badge/--000000?style=flat&logo=spring)
-![Angular](https://img.shields.io/badge/--000000?style=flat&logo=angular)
-![Vue.js](https://img.shields.io/badge/--000000?style=flat&logo=vue.js)
-![N8N](https://img.shields.io/badge/--000000?style=flat&logo=n8n)
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js)
+![N8N](https://img.shields.io/badge/-N8N-000000?style=flat&logo=n8n)
 <br/>
 
 <!--h2 align="center">Primer año</h2-->
