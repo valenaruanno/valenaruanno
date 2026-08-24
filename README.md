@@ -114,6 +114,9 @@
     <a href="https://github.com/valenaruanno/Proyecto-de-Software" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
         <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Proyecto-de-Software&theme=blue-green&icon_color=F8D866">
     </a>
+    <a href="https://github.com/valenaruanno/Redes-y-Comunicaciones" style="color: #D3D3D3; background-color: #D3D3D3; padding: 10px; border-radius: 8px;">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=valenaruanno&repo=Redes-y-Comunicaciones&theme=blue-green&icon_color=F8D866">
+    </a>
 </div>
 
 <!--h2 align="center">Cuarto año</h2-->
